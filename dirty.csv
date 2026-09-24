@@ -1,0 +1,32 @@
+customer_id,name,age,gender,city,email,phone,signup_date,purchase_amount,category
+1001,John Kamau,24,Male,Nairobi,john@gmail.com,0712-345-678,2025-01-15,4500.50,Electronics
+1002, Mary Wanjiku ,29,Female,nairobi,mary@gmail.com,0722 456 789,15/01/2025,3200,Clothing
+1003,PETER OTIENO,34,M,Kisumu,peter@gmail.com,+254 733 123456,2025/02/03,1250.75,electronics
+1004,Ann Njeri,,Female,NA,ann@gmail.com,0700-111-222,03-02-2025,850,Clothing
+1005,Brian Mwangi,17,Male,Nakuru,brian@gmail,0712345678,2025-02-10,1200.00,Food
+1006,Jane Wambui,31,Female,Nairobi,,0722-999-888,2025-02-11,3400.50,Electronics
+1007,  david kariuki,45,male, Nairobi,david@gmail.com,0733 555 444,11/02/2025,5000,electronics
+1008,Susan Akinyi,28,Female,Mombasa,susan@gmail.com,0701-222-333,2025-02-15,,Clothing
+1009,Kevin Otieno,-5,Male,Kisumu,kevin@gmail.com,0711-333-444,2025-02-16,2200,Food
+1010,Lucy Wairimu,150,F,Nairobi,lucy@gmail.com,0722-111-999,2025-02-18,1800.25,food
+1011,Mark Mutua,26,Male,Thika,mark@gmail.com,0700 123 456,2025-02-20,2700,Electronics
+1012,Grace Chebet,33,Female,Eldoret,grace@gmail.com,0712-777-888,20/02/2025,3100.75,Clothing
+1013,Samuel Kiplagat,27,Male,Eldoret,samuel@gmail.com,0712777888,2025-02-21,4500,Food
+1014,Jane Wambui,31,Female,Nairobi,,0722-999-888,2025-02-11,3400.50,Electronics
+1015,Mary Wanjiku,29,female,nairobi,mary@gmail.com,0722 456 789,2025-01-15,"3,200",clothing
+1016,Peter Otieno,34,M,KISUMU,peter@gmail.com,+254733123456,2025-02-03,1250.75,Electronics
+1017,Daniel Ouma,22,Male, Nairobi,daniel@gmail.com,0700-444-555,2025-02-25,1500,FOOD
+1018,Faith Atieno,25,Female,Mombasa,faith@gmail.com,0711-555-666,2025-02-26,2,750.50,Clothing
+1019,George Maina,thirty,Male,Kiambu,george@gmail.com,0722-666-777,2025-02-28,1900,Electronics
+1020,Carol Nyambura,23,Female,Kiambu,carol@gmail.com,0733-888-999,2025-02-30,2100,Food
+1021,Joseph Kariuki,36,Male,Thika,joseph@gmail.com,0700111222,2025-03-01,3200.00,Electronics
+1022,Esther Wambui,30,Female, Nairobi,esther@gmail.com,0712-222-333,01/03/2025,2800,Clothing
+1023,Michael Onyango,41,Male,Kisumu,michael@gmail.com,0733-111-222,2025-03-03,4500,Electronics
+1024,Agnes Wanjiru,27,Female,Nakuru,agnes@gmail.com,0701 333 444,03/03/2025,1750,Food
+1025,John Kamau,24,Male,Nairobi,john@gmail.com,0712-345-678,2025-01-15,4500.50,Electronics
+1026,Peter Otieno,34,Male,Kisumu,peter@gmail.com,0712-123-456,2025-03-05,1250.75,Electronic
+1027,Rose Naliaka,,Female,Kakamega,rose@gmail.com,0722-333-444,2025-03-06,900,Clothing
+1028,Patrick Were,39,Male,,patrick@gmail.com,0700-555-666,2025-03-07,3800,Food
+1029,Emily Chepkirui,26,Female,Eldoret,emily@gmail.com,0711-777-888,2025-03-08,N/A,Clothing
+1030,Anthony Mwangi,32,Male,Thika,anthony@gmail.com,0733-999-000,2025-03-09,4200.00,Electronics
+
