@@ -16,7 +16,7 @@ customer_id,name,age,gender,city,email,phone,signup_date,purchase_amount,categor
 1015,Mary Wanjiku,29,female,nairobi,mary@gmail.com,0722 456 789,2025-01-15,"3,200",clothing
 1016,Peter Otieno,34,M,KISUMU,peter@gmail.com,+254733123456,2025-02-03,1250.75,Electronics
 1017,Daniel Ouma,22,Male, Nairobi,daniel@gmail.com,0700-444-555,2025-02-25,1500,FOOD
-1018,Faith Atieno,25,Female,Mombasa,faith@gmail.com,0711-555-666,2025-02-26,2,750.50,Clothing
+1018,Faith Atieno,25,Female,Mombasa,faith@gmail.com,0711-555-666,2025-02-26,2,750.50
 1019,George Maina,thirty,Male,Kiambu,george@gmail.com,0722-666-777,2025-02-28,1900,Electronics
 1020,Carol Nyambura,23,Female,Kiambu,carol@gmail.com,0733-888-999,2025-02-30,2100,Food
 1021,Joseph Kariuki,36,Male,Thika,joseph@gmail.com,0700111222,2025-03-01,3200.00,Electronics
@@ -29,4 +29,3 @@ customer_id,name,age,gender,city,email,phone,signup_date,purchase_amount,categor
 1028,Patrick Were,39,Male,,patrick@gmail.com,0700-555-666,2025-03-07,3800,Food
 1029,Emily Chepkirui,26,Female,Eldoret,emily@gmail.com,0711-777-888,2025-03-08,N/A,Clothing
 1030,Anthony Mwangi,32,Male,Thika,anthony@gmail.com,0733-999-000,2025-03-09,4200.00,Electronics
-
