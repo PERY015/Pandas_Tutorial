@@ -1,0 +1,51 @@
+Student_ID,Name,Age,Gender,Study_Hours,Attendance,Previous_Score,Internet_Access,Part_Time_Job,Performance
+STU001, John Mwangi,20,Male,15,85%,72,Yes,No,Good
+STU002,Jane Wanjiku,21,Female,22,91%,81,Yes,No,Excellent
+STU003, Peter Kamau,19,M,10,78%,65,YES,No,Average
+STU004,  mary njeri ,22,F,18,88%,74,Yes,YES,Good
+STU005,David Ochieng,twenty,Male,25,95%,89,Yes,No,Excellent
+STU006,Grace Akinyi,20,Female,,82%,68,No,Yes,Average
+STU007, Brian Otieno,21,Male,30,110%,92,Yes,No,Excellent
+STU008,Susan Wambui,19,Female,8,75%,54,No,No,poor
+STU009,Kevin Kariuki,23,M,12,80%,61,yes,No,Average
+STU010,Ann Nyambura,20,Female,20,87%,76,Yes,No,Good
+STU011,Samuel Kiptoo,21,Male,-5,89%,70,Yes,Yes,Good
+STU012,Lilian Chebet,22,Female,16,,84,Yes,No,Excellent
+STU013, James Maina,19,Male,14,83%,59,No,Yes,Average
+STU014,Faith Wairimu,20,Female,21,92%,88,Yes,No,Excellent
+STU015,Michael Kibet,25,Male,40,97%,95,Yes,No,Excellent
+STU016,Lucy Atieno,19,F,11,76%,62,NO,No,Average
+STU017,Daniel Mutua,21,Male,N/A,84%,71,Yes,No,Good
+STU018,Carol Wambui,20,Female,19,89%,79,Yes,Yes,Good
+STU019,  Eric Omondi,22,Male,17,81%,67,Yes,No,average
+STU020,Beatrice Auma,19,Female,13,73%,55,No,Yes,Poor
+STU021,John Mwangi,20,Male,15,85%,72,Yes,No,Good
+STU022,Peter Kamau,19,M,10,78%,65,YES,No,Average
+STU023, Rose Njeri,abc,Female,18,88%,74,Yes,No,Good
+STU024,Joseph Kariuki,21,Male,100,90%,82,Yes,No,Excellent
+STU025,Agnes Wanjiku,20,Female,23,105%,91,Yes,No,Excellent
+STU026,,22,Male,16,86%,73,Yes,No,Good
+STU027,Patrick Ouma,19,Male,9,79%,60,No,Yes,Average
+STU028,Sarah Chebet,21,Female,18,88%,77,Yes,No,Good
+STU029,Mark Otieno,20,Male,15,82%,69,Yes,,Average
+STU030,  Alice Wanjiru,19,F,12,74%,58,No,No,Poor
+STU031,Victor Maina,20,Male,20,90%,80,Yes,No,Good
+STU032,Elizabeth Akinyi,21,Female,24,93%,87,Yes,No,Excellent
+STU033,George Mutua,22,Male,17,85%,75,Yes,Yes,Good
+STU034,Christine Wairimu,20,Female,14,80%,64,No,No,Average
+STU035,Robert Kiptoo,19,male,16,83%,70,Yes,No,Good
+STU036,Naomi Chebet,21,FEMALE,19,91%,85,Yes,No,Excellent
+STU037,Samuel Ochieng,20,Male,13,78%,63,No,Yes,Average
+STU038, Mercy Auma ,19,Female,10,72%,51,No,Yes,poor
+STU039,David Kamau,21,Male,18,86%,78,Yes,No,Good
+STU040,Jane Wambui,20,Female,21,94%,90,Yes,No,Excellent
+STU041,Kevin Kariuki,23,M,12,80%,61,yes,No,Average
+STU042,Brian Otieno,21,Male,30,89%,92,Yes,No,Excellent
+STU043,Lucy Atieno,19,Female,11,76%,62,NO,No,Average
+STU044,Daniel Mutua,21,Male,17,84%,71,Yes,No,Good
+STU045,Faith Wairimu,20,Female,21,92%,88,Yes,No,Excellent
+STU046,Michael Kibet,25,Male,40,97%,95,Yes,No,Excellent
+STU047,Carol Wambui,20,Female,19,89%,79,Yes,Yes,Good
+STU048,Eric Omondi,22,Male,17,81%,67,Yes,No,average
+STU049,Beatrice Auma,19,Female,13,73%,55,No,Yes,Poor
+STU050,Joseph Kariuki,21,Male,15,88%,82,Yes,No,Good
